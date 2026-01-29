@@ -1,0 +1,33 @@
+name: 🚨 Demo 举报 / 下架请求
+description: 链接失效、侵权、违规、不适合展示等
+title: "[Report] "
+labels: ["demo", "report", "triage"]
+body:
+  - type: input
+    id: target
+    attributes:
+      label: 关联的 Demo（必填）
+      placeholder: 例如：#123 或 demos/xxx
+    validations:
+      required: true
+
+  - type: dropdown
+    id: reason
+    attributes:
+      label: 原因
+      options:
+        - 链接失效 / 无法访问
+        - 信息不准确 / 误导
+        - 侵权 / 未授权内容
+        - 含敏感信息 / 安全风险
+        - 不符合社区展示范围
+        - 其他
+    validations:
+      required: true
+
+  - type: textarea
+    id: detail
+    attributes:
+      label: 详细说明（必填）
+    validations:
+      required: true

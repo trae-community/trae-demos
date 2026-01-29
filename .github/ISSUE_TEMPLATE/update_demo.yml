@@ -1,0 +1,24 @@
+name: 🛠️ Demo 更新 / 信息修正
+description: Demo 信息需要更新（链接、截图、说明等）
+title: "[Update] "
+labels: ["demo", "update"]
+body:
+  - type: input
+    id: target
+    attributes:
+      label: 关联的 Demo（必填）
+      description: 贴 demo 的 issue 链接或仓库路径
+      placeholder: 例如：#123 或 demos/xxx
+    validations:
+      required: true
+
+  - type: textarea
+    id: changes
+    attributes:
+      label: 需要更新什么？（必填）
+      placeholder: |
+        - 链接改为：
+        - 截图新增：
+        - 说明更新：
+    validations:
+      required: true

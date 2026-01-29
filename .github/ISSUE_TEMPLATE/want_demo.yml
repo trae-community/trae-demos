@@ -1,0 +1,20 @@
+name: 💡 我想看这个 Demo
+description: 提一个你希望社区有人做出来的 VibeCoding 案例
+title: "[Idea] "
+labels: ["idea", "demo"]
+body:
+  - type: input
+    id: idea
+    attributes:
+      label: 一句话想法（必填）
+      placeholder: 例如：把 XX 变成一个一键可用的 CLI 工具
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: 场景描述（可选）
+      placeholder: 谁会用？为什么有价值？你希望它怎么交互？
+    validations:
+      required: false
