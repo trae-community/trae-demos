@@ -1,6 +1,6 @@
 # TRAE Demos
 
-[English](./README_EN.md) | 中文
+中文| [English](./README.md)
 
 ---
 
