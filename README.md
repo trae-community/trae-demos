@@ -1,5 +1,10 @@
 # TRAE Demos
 
+[![GitHub issues](https://img.shields.io/github/issues/trae-community/trae-demos)](https://github.com/trae-community/trae-demos/issues)
+[![GitHub stars](https://img.shields.io/github/stars/trae-community/trae-demos)](https://github.com/trae-community/trae-demos/stargazers)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/trae-community/trae-demos/pulls)
+
 English | [中文](./README_zh.md)
 
 ---
