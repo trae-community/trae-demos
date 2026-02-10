@@ -1,0 +1,135 @@
+name: 🚀 Demo Submission (English)
+description: Submit a cool TRAE project (we'll feature it in our showcase)
+title: "[Demo] "
+labels: ["demo", "submission", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Thanks for your submission!
+        
+        Please fill in the following information to help us better understand your project.
+        
+        > 💡 Tip: Fields marked as required must be filled in completely
+        
+        ---
+
+  - type: input
+    id: demo_name
+    attributes:
+      label: Demo Name
+      placeholder: e.g., AI-powered Code Review Tool / One-click Poster Generator
+    validations:
+      required: true
+
+  - type: textarea
+    id: one_liner
+    attributes:
+      label: One-line Description
+      description: Make it clear why it's awesome
+      placeholder: e.g., Input a requirement, generate a working CLI tool in 30 seconds, and auto-deploy to npm
+    validations:
+      required: true
+
+  - type: input
+    id: repo_url
+    attributes:
+      label: Repository URL
+      placeholder: https://github.com/xxx/xxx
+    validations:
+      required: true
+
+  - type: input
+    id: live_url
+    attributes:
+      label: Live Demo / Preview URL (Optional)
+      placeholder: https://demo.example.com
+    validations:
+      required: false
+
+  - type: dropdown
+    id: demo_type
+    attributes:
+      label: Demo Type
+      options:
+        - Web Application
+        - CLI / Tool
+        - Bot / Agent
+        - Plugin / Extension
+        - Component / UI
+        - Workflow / Automation
+        - Game
+        - AI Application
+        - Other
+    validations:
+      required: true
+
+  - type: dropdown
+    id: tech_stack
+    attributes:
+      label: Tech Stack (Choose primary)
+      options:
+        - JavaScript / TypeScript
+        - Python
+        - Go
+        - Java
+        - Rust
+        - C / C++
+        - Multi-language
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: highlights
+    attributes:
+      label: Key Highlights
+      description: What are the 3 most impressive features?
+      placeholder: |
+        1. Used TRAE's XXX feature to implement XXX functionality
+        2. Performance optimization: XXX
+        3. Innovation: XXX
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots / Screen Recording (Highly Recommended)
+      description: Drag and drop images or paste links (most convincing)
+      placeholder: Paste image/video links or drag and drop files
+    validations:
+      required: false
+
+  - type: textarea
+    id: how_to_run
+    attributes:
+      label: How to Run Locally (Optional but appreciated)
+      description: Make it easy for others to run in 3 minutes
+      placeholder: |
+        1. git clone xxx
+        2. npm install
+        3. npm run dev
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Additional Information (Optional)
+      description: Development story, technical challenges, future plans, etc.
+      placeholder: Anything you'd like to share...
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Submission Checklist
+      options:
+        - label: I confirm this submission does not contain sensitive information like API keys/tokens
+          required: true
+        - label: I allow the community to reference my screenshots/description in the showcase (with attribution)
+          required: true
+        - label: I have verified that the links are accessible (or explained access requirements)
+          required: true
