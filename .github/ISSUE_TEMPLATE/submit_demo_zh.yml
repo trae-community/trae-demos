@@ -1,29 +1,40 @@
-name: 🚀 Demo 投稿（VibeCoding Showcase）
-description: 投稿一个很酷的 VibeCoding 案例（我们会收录到仓库展示区）
+name: 🚀 Demo 投稿（中文）
+description: 投稿一个很酷的 TRAE 案例（我们会收录到仓库展示区）
 title: "[Demo] "
 labels: ["demo", "submission", "triage"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 感谢投稿！
+        
+        请填写以下信息，帮助我们更好地了解你的项目。
+        
+        > 💡 提示：标注为"必填"的字段请务必填写完整
+        
+        ---
+
   - type: input
     id: demo_name
     attributes:
-      label: Demo 名称（必填）
-      placeholder: 例如：AIops-CLI Copilot / 一句话生成海报工具
+      label: Demo 名称
+      placeholder: 例如：AI 驱动的代码审查工具 / 一句话生成海报工具
     validations:
       required: true
 
   - type: textarea
     id: one_liner
     attributes:
-      label: 一句话介绍（必填）
+      label: 一句话介绍
       description: 让人一眼知道它牛在哪
-      placeholder: 例如：输入一个需求，30 秒生成可用的 XXX，并自动部署到 XXX
+      placeholder: 例如：输入一个需求，30 秒生成可用的 CLI 工具，并自动部署到 npm
     validations:
       required: true
 
   - type: input
     id: repo_url
     attributes:
-      label: 代码仓库链接（必填）
+      label: 代码仓库链接
       placeholder: https://github.com/xxx/xxx
     validations:
       required: true
@@ -32,7 +43,7 @@ body:
     id: live_url
     attributes:
       label: 在线体验 / 演示链接（可选）
-      placeholder: https://...
+      placeholder: https://demo.example.com
     validations:
       required: false
 
@@ -47,6 +58,8 @@ body:
         - 插件 / Extension
         - 组件 / UI
         - 工作流 / 自动化
+        - 游戏
+        - AI 应用
         - 其他
     validations:
       required: true
@@ -61,6 +74,7 @@ body:
         - Go
         - Java
         - Rust
+        - C / C++
         - 多语言混合
         - 其他
     validations:
@@ -69,12 +83,12 @@ body:
   - type: textarea
     id: highlights
     attributes:
-      label: 亮点（必填）
+      label: 核心亮点
       description: 你觉得最值得展示的 3 点是什么？
       placeholder: |
-        1) ...
-        2) ...
-        3) ...
+        1. 使用了 TRAE 的 XXX 特性，实现了 XXX 功能
+        2. 性能优化：XXX
+        3. 创新点：XXX
     validations:
       required: true
 
@@ -83,7 +97,7 @@ body:
     attributes:
       label: 截图 / 录屏（强烈建议）
       description: 直接拖拽上传图片或粘贴链接（最能打动人）
-      placeholder: 粘贴图片/视频链接或直接上传
+      placeholder: 粘贴图片/视频链接或直接拖拽上传
     validations:
       required: false
 
@@ -93,9 +107,18 @@ body:
       label: 本地运行方式（可选但加分）
       description: 让别人 3 分钟跑起来的那种
       placeholder: |
-        1) ...
-        2) ...
-        3) ...
+        1. git clone xxx
+        2. npm install
+        3. npm run dev
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: 其他补充信息（可选）
+      description: 开发故事、技术难点、未来计划等
+      placeholder: 任何你想分享的内容...
     validations:
       required: false
 
