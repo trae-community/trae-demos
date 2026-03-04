@@ -1,71 +1,68 @@
-# TRAE Demos
+# 🎬 TRAE Demos
+
+**A community-driven showcase for amazing projects built with TRAE**
+
+![TRAE Demos Banner](./assets/image/Demos.gif)
 
 [![GitHub issues](https://img.shields.io/github/issues/trae-community/trae-demos)](https://github.com/trae-community/trae-demos/issues)
 [![GitHub stars](https://img.shields.io/github/stars/trae-community/trae-demos)](https://github.com/trae-community/trae-demos/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/trae-community/trae-demos/pulls)
 
-English | [中文](./README_zh.md)
+[English](./README.md) | [中文](./README_zh.md)
 
 ---
 
-## Who We Are
+## 🎯 What is This?
 
-TRAE Demos is a community-driven project showcase platform maintained by the TRAE community. We collect and share excellent projects created by developers worldwide using TRAE.
+**TRAE Demos** is a community-driven project showcase platform maintained by the TRAE community. We collect and share excellent projects created by developers worldwide using TRAE.
 
-## What We Do
+### 💡 Why It Matters
 
 We regularly curate quality projects built with TRAE to help developers:
 
-- Discover TRAE's use cases and possibilities
-- Learn from real project implementations
-- Get development inspiration and technical ideas
-- Showcase their work and receive feedback
+- 🔍 **Discover** TRAE's use cases and possibilities
+- 📚 **Learn** from real project implementations
+- 💡 **Get inspired** with development ideas and technical approaches
+- 🌟 **Showcase** your work and receive community feedback
 
-## How to Submit
+## 🚀 How to Submit
 
-We welcome any projects built with TRAE, including web apps, tools, games, AI applications, etc.
+We welcome any projects built with TRAE, including web apps, tools, games, AI applications, and more!
 
-### Submission Steps
+### 📝 Submission Steps
 
-1. Create a new [Issue](https://github.com/trae-community/trae-demos/issues/new)
-2. Fill in project information following this format:
+#### Step 1: Check Requirements ✅
 
-```markdown
-## Project Information
+Before submitting, make sure your project:
+- ✅ Uses **TRAE** as core technology
+- ✅ Is **accessible** (open source repo or live demo)
+- ✅ Has **good code quality** with basic documentation
+- ✅ Is **well-polished** (high completion level)
 
-**Project Name**:
-**Repository**:
-**Live Demo**: (if available)
-**Project Type**: Web App / Tool / Game / AI App / Other
+#### Step 2: Create an Issue 📋
 
-## Description
+1. Click **[New Issue](https://github.com/trae-community/trae-demos/issues/new)**
+2. Fill in project information using the template
+3. Provide clear descriptions and screenshots
 
-**One-line Description**:
+#### Step 3: Wait for Review ⏳
 
-**Core Features**:
-- Feature 1
-- Feature 2
-- Feature 3
+- You'll receive acknowledgment within **24 hours**
+- Our team will review within **3-5 business days**
+- Once approved, your project will be featured!
 
-**Technical Highlights**:
-Briefly explain which TRAE features were used and any technical innovations or clever implementations
+👉 For detailed submission guidelines, see **[CONTRIBUTING.md](./CONTRIBUTING.md)**.
 
-## Screenshots
+### 🎯 Selection Criteria
 
-(Provide 2-3 screenshots or GIFs)
-```
+Projects are selected based on:
+- **TRAE Usage**: Core technology used
+- **Accessibility**: Open source or live demo available
+- **Quality**: Good code quality and documentation
+- **Completeness**: High level of polish and functionality
 
-3. Submit and wait for review. We'll respond within 3-5 business days
-
-### Selection Criteria
-
-- Uses TRAE as core technology
-- Project is accessible (open source repo or live demo)
-- Good code quality with basic documentation
-- High completion level
-
-## Past Issues
+## 📦 Past Issues
 
 #### Issue #1
 
@@ -73,11 +70,17 @@ Coming soon...
 
 ---
 
-## License
+## 📞 Get in Touch
+
+Have questions or want to connect? Here's how:
+
+- **❓ Questions?** → [GitHub Issues](https://github.com/trae-community/trae-demos/issues)
+- **💬 Discussions** → [GitHub Discussions](https://github.com/trae-community/trae-demos/discussions)
+
+---
+
+## 📄 License
 
 MIT License. Copyright of submitted projects belongs to original authors.
 
-## Contact
-
-- Issues: [GitHub Issues](https://github.com/trae-community/trae-demos/issues)
-- Discussions: [GitHub Discussions](https://github.com/trae-community/trae-demos/discussions)
+This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

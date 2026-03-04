@@ -1,71 +1,68 @@
-# TRAE Demos
+# 🎬 TRAE Demos
+
+**一个由社区驱动的展示平台，收录使用 TRAE 构建的精彩项目**
+
+![TRAE Demos Banner](./assets/image/Demos.gif)
 
 [![GitHub issues](https://img.shields.io/github/issues/trae-community/trae-demos)](https://github.com/trae-community/trae-demos/issues)
 [![GitHub stars](https://img.shields.io/github/stars/trae-community/trae-demos)](https://github.com/trae-community/trae-demos/stargazers)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/trae-community/trae-demos/pulls)
 
-中文| [English](./README.md)
+[English](./README.md) | [中文](./README_zh.md)
 
 ---
 
-## 我们是谁
+## 🎯 这是什么？
 
-TRAE Demos 是一个社区驱动的项目展示平台，由 TRAE 社区维护。我们收集和分享全球开发者使用 TRAE 创造的优秀项目。
+**TRAE Demos** 是一个社区驱动的项目展示平台，由 TRAE 社区维护。我们收集和分享全球开发者使用 TRAE 创造的优秀项目。
 
-## 我们在做什么
+### 💡 为什么重要
 
 我们定期精选使用 TRAE 开发的优质项目，帮助开发者：
 
-- 发现 TRAE 的应用场景和可能性
-- 学习真实项目的实现方式
-- 获得开发灵感和技术思路
-- 展示自己的作品并获得反馈
+- 🔍 **探索** TRAE 的应用场景和可能性
+- 📚 **学习** 真实项目的实现方式
+- 💡 **获取灵感** 开发思路和技术方法
+- 🌟 **展示** 作品并获得社区反馈
 
-## 如何投稿
+## 🚀 如何投稿
 
-我们欢迎任何使用 TRAE 开发的项目，包括 Web 应用、工具、游戏、AI 应用等。
+我们欢迎任何使用 TRAE 开发的项目，包括 Web 应用、工具、游戏、AI 应用等！
 
-### 投稿步骤
+### 📝 投稿步骤
 
-1. 创建一个新的 [Issue](https://github.com/trae-community/trae-demos/issues/new)
-2. 按照以下格式填写项目信息：
+#### 步骤 1：检查要求 ✅
 
-```markdown
-## 项目信息
+投稿前，确保你的项目：
+- ✅ 使用 **TRAE** 作为核心技术
+- ✅ **可访问**（开源仓库或在线演示）
+- ✅ **代码质量良好**，有基本文档
+- ✅ **完成度较高**（ polished ）
 
-**项目名称**：
-**仓库地址**：
-**在线演示**：（如果有）
-**项目类型**：Web 应用 / 工具 / 游戏 / AI 应用 / 其他
+#### 步骤 2：创建 Issue 📋
 
-## 项目介绍
+1. 点击 **[New Issue](https://github.com/trae-community/trae-demos/issues/new)**
+2. 使用模板填写项目信息
+3. 提供清晰的描述和截图
 
-**一句话描述**：
+#### 步骤 3：等待审核 ⏳
 
-**核心功能**：
-- 功能 1
-- 功能 2
-- 功能 3
+- 你将在 **24 小时内** 收到确认
+- 我们的团队会在 **3-5 个工作日** 内审核
+- 审核通过后，你的项目将被展示！
 
-**技术亮点**：
-简要说明使用了 TRAE 的哪些特性，有什么技术创新或巧妙实现
+👉 详细的投稿指南请查看 **[CONTRIBUTING.md](./CONTRIBUTING.md)**。
 
-## 项目截图
+### 🎯 收录标准
 
-（提供 2-3 张截图或 GIF）
-```
+项目基于以下标准进行选择：
+- **TRAE 使用**: 核心技术使用
+- **可访问性**: 开源仓库或在线演示可用
+- **质量**: 良好的代码质量和文档
+- **完整度**: 高度的完善和功能完整性
 
-3. 提交后等待审核，我们会在 3-5 个工作日内回复
-
-### 收录标准
-
-- 使用 TRAE 作为核心技术
-- 项目可访问（开源仓库或在线演示）
-- 代码质量良好，有基本文档
-- 项目完成度较高
-
-## 往期内容
+## 📦 往期内容
 
 #### 第 1 期
 
@@ -73,11 +70,17 @@ TRAE Demos 是一个社区驱动的项目展示平台，由 TRAE 社区维护。
 
 ---
 
-## 许可证
+## 📞 联系我们
+
+有问题或想要交流？可以通过以下方式：
+
+- **❓ 问题反馈？** → [GitHub Issues](https://github.com/trae-community/trae-demos/issues)
+- **💬 讨论区** → [GitHub Discussions](https://github.com/trae-community/trae-demos/discussions)
+
+---
+
+## 📄 许可证
 
 MIT License. 投稿项目的版权归原作者所有。
 
-## 联系方式
-
-- Issues: [GitHub Issues](https://github.com/trae-community/trae-demos/issues)
-- Discussions: [GitHub Discussions](https://github.com/trae-community/trae-demos/discussions)
+本仓库使用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件。
