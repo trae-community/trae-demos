@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/trae-community/trae-demos/pulls)
 
-[English](./README.md) | [中文](./README_zh.md)
+[English](./README.md) | [中文](./README.zh-CN.md)
 
 ---
 
@@ -72,7 +72,7 @@
 
 | 项目 | 类型 | 作者 |
 |------|------|------|
-| [Minecraft Guilin City Walk \| 桂林像素漫步](./demos/period-1/demo-1.md) | Web 应用 | [@MU-ty](https://github.com/MU-ty) |
+| [Minecraft Guilin City Walk \| 桂林像素漫步](./demos/period-1/demo-1.zh-CN.md) | Web 应用 | [@MU-ty](https://github.com/MU-ty) |
 
 ---
 

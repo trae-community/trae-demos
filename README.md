@@ -9,7 +9,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/trae-community/trae-demos/pulls)
 
-[English](./README.md) | [中文](./README_zh.md)
+[English](./README.md) | [中文](./README.zh-CN.md)
 
 ---
 
@@ -72,7 +72,7 @@ Projects are selected based on:
 
 | Project | Type | Author |
 |---------|------|--------|
-| [Minecraft Guilin City Walk](./demos/period-1/demo-1.en.md) | Web App | [@MU-ty](https://github.com/MU-ty) |
+| [Minecraft Guilin City Walk](./demos/period-1/demo-1.md) | Web App | [@MU-ty](https://github.com/MU-ty) |
 
 ---
 
