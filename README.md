@@ -64,9 +64,15 @@ Projects are selected based on:
 
 ## 📦 Past Issues
 
-#### Issue #1
+| Issue | Projects | Published | Link |
+|-------|----------|-----------|------|
+| Issue #1 | 1 | 2026.03 | [View Details](./demos/period-1/) |
 
-Coming soon...
+### Issue #1 Highlights
+
+| Project | Type | Author |
+|---------|------|--------|
+| [Minecraft Guilin City Walk](./demos/period-1/demo-1.en.md) | Web App | [@MU-ty](https://github.com/MU-ty) |
 
 ---
 
