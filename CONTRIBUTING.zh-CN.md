@@ -35,9 +35,7 @@
 
 ### 步骤 2：创建 Issue
 
-1. 访问 [Issues](https://github.com/trae-community/trae-demos/issues)
-2. 点击 "New Issue"
-3. 选择合适的模板
+1. 访问 **[Submit a Demo（中文）](https://github.com/trae-community/trae-demos/issues/new?template=submit_demo_zh.yml)**
 4. 填写所有必填字段
 
 ### 步骤 3：填写模板

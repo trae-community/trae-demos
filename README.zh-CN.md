@@ -42,7 +42,7 @@
 
 #### 步骤 2：创建 Issue 📋
 
-1. 点击 **[New Issue](https://github.com/trae-community/trae-demos/issues/new)**
+1. 点击 **[Submit a Demo（中文）](https://github.com/trae-community/trae-demos/issues/new?template=submit_demo_zh.yml)**
 2. 使用模板填写项目信息
 3. 提供清晰的描述和截图
 

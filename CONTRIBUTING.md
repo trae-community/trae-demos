@@ -35,9 +35,7 @@ Before submitting, ensure:
 
 ### Step 2: Create an Issue
 
-1. Go to [Issues](https://github.com/trae-community/trae-demos/issues)
-2. Click "New Issue"
-3. Select the appropriate template
+1. Go to [Submit a Demo](https://github.com/trae-community/trae-demos/issues/new?template=submit_demo_en.yml)
 4. Fill in all required fields
 
 ### Step 3: Fill in the Template

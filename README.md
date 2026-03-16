@@ -42,7 +42,7 @@ Before submitting, make sure your project:
 
 #### Step 2: Create an Issue 📋
 
-1. Click **[New Issue](https://github.com/trae-community/trae-demos/issues/new)**
+1. Click **[Submit a Demo](https://github.com/trae-community/trae-demos/issues/new?template=submit_demo_en.yml)**
 2. Fill in project information using the template
 3. Provide clear descriptions and screenshots
 
@@ -72,7 +72,7 @@ Projects are selected based on:
 
 | Project | Type | Author |
 |---------|------|--------|
-| [Minecraft Guilin City Walk](./demos/period-1/demo-1.md) | Web App | [@MU-ty](https://github.com/MU-ty) |
+| [Minecraft Guilin City Walk \| 桂林像素漫步](./demos/period-1/demo-1.md) | Web App | [@MU-ty](https://github.com/MU-ty) |
 
 ---
 
