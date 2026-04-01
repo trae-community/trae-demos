@@ -66,13 +66,14 @@ Projects are selected based on:
 
 | Issue | Projects | Published | Link |
 |-------|----------|-----------|------|
-| Issue #1 | 1 | 2026.03 | [View Details](./demos/period-1/) |
+| Issue #1 | 2 | 2026.03 | [View Details](./demos/period-1/) |
 
 ### Issue #1 Highlights
 
 | Project | Type | Author |
 |---------|------|--------|
 | [Minecraft Guilin City Walk \| 桂林像素漫步](./demos/period-1/demo-1.md) | Web App | [@MU-ty](https://github.com/MU-ty) |
+| [TraeClaw](./demos/period-1/demo-2.md) | Plugin / Extension | [@firerlAGI](https://github.com/firerlAGI) |
 
 ---
 

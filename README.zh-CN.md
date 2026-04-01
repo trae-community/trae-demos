@@ -66,13 +66,14 @@
 
 | 期数 | 项目数 | 发布时间 | 链接 |
 |------|--------|----------|------|
-| 第 1 期 | 1 | 2026.03 | [查看详情](./demos/period-1/) |
+| 第 1 期 | 2 | 2026.03 | [查看详情](./demos/period-1/) |
 
 ### 第 1 期精选
 
 | 项目 | 类型 | 作者 |
 |------|------|------|
 | [Minecraft Guilin City Walk \| 桂林像素漫步](./demos/period-1/demo-1.zh-CN.md) | Web 应用 | [@MU-ty](https://github.com/MU-ty) |
+| [TraeClaw](./demos/period-1/demo-2.zh-CN.md) | 插件 / Extension | [@firerlAGI](https://github.com/firerlAGI) |
 
 ---
 
